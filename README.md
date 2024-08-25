@@ -1,3 +1,3 @@
 # Projects
 Hello.
-These are my projects during in 3 months of internship.
+These are my projects during in 2 months of internship.
